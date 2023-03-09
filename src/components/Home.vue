@@ -18,7 +18,7 @@ export default {
                 },
                 {
                     src: "https://images.squarespace-cdn.com/content/v1/5dd8630d09ab5908e35b35a0/1586969319681-4OLWCUAYUSSWHGES6IOY/sprinkle+dog.jpg?format=1000w",
-                    hotdog: "sprinkle"
+                    hotdog: "sprinkles"
                 },
                 {
                     src: "https://images.squarespace-cdn.com/content/v1/5dd8630d09ab5908e35b35a0/1603992035188-Y4LE9KCNN2IDIKG6OASN/hat+dog.png?format=1000w",
