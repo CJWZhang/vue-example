@@ -18,9 +18,9 @@ export default {
 <template>
   <header>
     <NavBar></NavBar>
-
+    Testimonials 
   </header>
-  This is the testimonials page.
+  “i like the hot dog” - a guy said that
 </template>
 
 <style scoped>
